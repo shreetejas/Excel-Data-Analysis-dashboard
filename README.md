@@ -39,4 +39,4 @@ Identified regional revenue gaps and top-selling products like Paneer Tikka & Cr
 Improved reporting efficiency by 30–40%, enabling faster, data-driven decisions.
 
 ## Final Conclusion
-These Excel dashboards transformed raw business data into actionable insights across customer service, finance, and sales. By highlighting low CSAT in complaints, regional revenue gaps, and top-performing products, the dashboards improved reporting efficiency by 30–40% and enabled faster, data-driven decision-making.
+These Excel dashboards transformed raw business data into actionable insights across customer service, finance, Orders Management. By highlighting low CSAT in complaints, regional revenue gaps, and top-performing products, the dashboards improved reporting efficiency by 30–40% and enabled faster, data-driven decision-making.
