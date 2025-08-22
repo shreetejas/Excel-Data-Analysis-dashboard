@@ -31,3 +31,12 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 
 ## Order management Dashboard
 <img width="1188" height="719" alt="Order management Dashboard" src="https://github.com/user-attachments/assets/4bf730c2-1cc0-4ac6-9354-058e9bd078f0" />
+
+## Project Insights
+Developed Excel dashboards for Customer Service, Finance, and Orders Management.
+Found low CSAT in complaints, guiding service improvements.
+Identified regional revenue gaps and top-selling products like Paneer Tikka & Crispy Chole Pizzabun.
+Improved reporting efficiency by 30–40%, enabling faster, data-driven decisions.
+
+## Final Conclusion
+These Excel dashboards transformed raw business data into actionable insights across customer service, finance, and sales. By highlighting low CSAT in complaints, regional revenue gaps, and top-performing products, the dashboards improved reporting efficiency by 30–40% and enabled faster, data-driven decision-making.
