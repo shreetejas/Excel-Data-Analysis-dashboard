@@ -4,6 +4,12 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 ## Data set used
 - <a href= "https://github.com/shreetejas/Excel-Data-Analysis-dashboard/blob/main/dashboard%2Bexcel.xlsx">Data set</a>
 - <a href= "https://github.com/shreetejas/Excel-Data-Analysis-dashboard/blob/main/excel%20data.xlsx">Data set</a>
+
+## process 
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the question asked.
+-  Merge all pivot tables into dashboard and apply slicer to make dynamic.
 ## Customer Service Dashboard
 <img width="504" height="193" alt="image" src="https://github.com/user-attachments/assets/fceae255-0b91-40d2-b70c-9ffb684fb79a" />
 
