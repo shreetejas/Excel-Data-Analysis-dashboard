@@ -8,7 +8,7 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 <img width="504" height="193" alt="image" src="https://github.com/user-attachments/assets/fceae255-0b91-40d2-b70c-9ffb684fb79a" />
 
 
-## Dashboard Customer service dashboard
+## Customer service dashboard
 <img width="1063" height="863" alt="Customer service dashboard" src="https://github.com/user-attachments/assets/99242973-d8d1-4d2e-a264-e403473fa017" />
 
 ## Finance Dashboard
