@@ -11,6 +11,8 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 
 ## Finance Dashboard
 <img width="1002" height="169" alt="image" src="https://github.com/user-attachments/assets/93067116-6e4d-4a88-b497-a5dcf9800638" />
+
+
 ## Finance dashboard
 <img width="1133" height="660" alt="Finance dashboard" src="https://github.com/user-attachments/assets/51cc39ca-6ef2-4598-85fb-ccc3c57fd54a" />
 
