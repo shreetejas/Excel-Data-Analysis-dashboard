@@ -1,4 +1,4 @@
-<img width="1002" height="193" alt="image" src="https://github.com/user-attachments/assets/9ac113b4-2e4a-41aa-aee5-fe2cde0099fe" /># Interactive MS Excel Dashboards for Customer Service, Finance, and Orders.
+
 ## project objective
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process several stages, including data processing, data cleaning, and data visualization 
 ## Data set used
