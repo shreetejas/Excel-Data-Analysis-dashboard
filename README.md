@@ -6,6 +6,8 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 - <a href= "https://github.com/shreetejas/Excel-Data-Analysis-dashboard/blob/main/excel%20data.xlsx">Data set</a>
 ## Customer Service Dashboard
 <img width="504" height="193" alt="image" src="https://github.com/user-attachments/assets/fceae255-0b91-40d2-b70c-9ffb684fb79a" />
+
+
 ## Dashboard Customer service dashboard
 <img width="1063" height="863" alt="Customer service dashboard" src="https://github.com/user-attachments/assets/99242973-d8d1-4d2e-a264-e403473fa017" />
 
@@ -19,5 +21,7 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 
 ## Order Fulfillment Dashboard
 <img width="922" height="169" alt="image" src="https://github.com/user-attachments/assets/2acf7ba7-515b-4838-8bb4-559810a664d3" />
+
+
 ## Order management Dashboard
 <img width="1188" height="719" alt="Order management Dashboard" src="https://github.com/user-attachments/assets/4bf730c2-1cc0-4ac6-9354-058e9bd078f0" />
