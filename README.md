@@ -6,13 +6,16 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 - <a href= "https://github.com/shreetejas/Excel-Data-Analysis-dashboard/blob/main/excel%20data.xlsx">Data set</a>
 ## Customer Service Dashboard
 <img width="504" height="193" alt="image" src="https://github.com/user-attachments/assets/fceae255-0b91-40d2-b70c-9ffb684fb79a" />
+## Dashboard Customer service dashboard
 <img width="1063" height="863" alt="Customer service dashboard" src="https://github.com/user-attachments/assets/99242973-d8d1-4d2e-a264-e403473fa017" />
 
 ## Finance Dashboard
 <img width="1002" height="169" alt="image" src="https://github.com/user-attachments/assets/93067116-6e4d-4a88-b497-a5dcf9800638" />
+## Finance dashboard
 <img width="1133" height="660" alt="Finance dashboard" src="https://github.com/user-attachments/assets/51cc39ca-6ef2-4598-85fb-ccc3c57fd54a" />
 
 
 ## Order Fulfillment Dashboard
 <img width="922" height="169" alt="image" src="https://github.com/user-attachments/assets/2acf7ba7-515b-4838-8bb4-559810a664d3" />
+## Order management Dashboard
 <img width="1188" height="719" alt="Order management Dashboard" src="https://github.com/user-attachments/assets/4bf730c2-1cc0-4ac6-9354-058e9bd078f0" />
